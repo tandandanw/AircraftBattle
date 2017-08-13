@@ -1,0 +1,5 @@
+打开cmd
+
+更改目录到	存放目录\AircraftBattle\bin
+
+运行	java -cp .;E:\AircraftBattle\lib\jl1.0.1.jar aircraftbattle.game.GameMain
