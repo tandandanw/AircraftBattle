@@ -1,3 +1,9 @@
+# This is a little game with Java Swing
+
+![picture1](https://raw.githubusercontent.com/PasserbyTan/Little-Games/master/example1.PNG)
+
+![picture2](https://raw.githubusercontent.com/PasserbyTan/Little-Games/master/example2.PNG)
+
 > run with *eclipse*
 
 just import.
