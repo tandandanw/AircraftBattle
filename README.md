@@ -14,8 +14,8 @@ just import.
 
 2. change dir to	
 
-> ** [your path] \AircraftBattle\bin**
+> **[your path]\AircraftBattle\bin**
 
 3. The scripts already comilped. Just run it.
 
-> **java -cp .; [your path] \AircraftBattle\lib\jl1.0.1.jar aircraftbattle.game.GameMain**
+> **java -cp .;[your path]\AircraftBattle\lib\jl1.0.1.jar aircraftbattle.game.GameMain**
