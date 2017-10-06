@@ -3,7 +3,7 @@
 
 ## Introduction
 
-En...ok, this is a little game using Java Swing. I use PPT to draw all the pictures (yeah, I know it's quite silly), PhotoShop to edit those pictures. When I knew programming very little, I wrote this game for practice. If you are interested in or you are new in programming world, I hope you can enjoy this little game.
+En...ok, this is a little game using Java Swing. I use PPT to draw all the pictures (yeah, I know it's quite silly), PhotoShop to edit those pictures. When I knew programming very little, I wrote this game for practice. If you are interested in or you are new in programming world, download it!
 
 ## Game Screens
 
