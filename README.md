@@ -1,21 +1,63 @@
-# This is a little game with Java Swing
+
+# AircraftBattle - A Little Game
+
+## Introduction
+
+En...ok, this is a little game using Java Swing. I use PPT to draw all the pictures (yeah, I know it's quite silly), PhotoShop to edit those pictures. When I knew programming very little, I wrote this game for practice. If you are interested in or you are new in programming world, I hope you can enjoy this little game.
+
+## Game Screens
 
 ![picture1](https://raw.githubusercontent.com/PasserbyTan/Little-Games/master/example1.PNG)
 
 ![picture2](https://raw.githubusercontent.com/PasserbyTan/Little-Games/master/example2.PNG)
 
-> run with *eclipse*
+## Requirements
 
-just import.
+- *Java Runtime Environment* 
 
-> run with *cmd.exe*
+my version is jre1.8.0_144. But I think a bit lower/higher version is also ok.
 
-1. open cmd
+## Run
 
-2. change dir to	
+#### test only in *Windows* 
 
-- **[your path]\AircraftBattle\bin**
+##### 1. *win + R*, enter *cmd*
 
-3. The scripts already comilped. Just run it.
+##### 2. change dir, enter 	
 
-- **java -cp .;[your path]\AircraftBattle\lib\jl1.0.1.jar aircraftbattle.game.GameMain**
+
+```
+[your root directory]  
+
+cd [your path]\AircraftBattle\bin
+
+```
+
+
+##### 3. Scripts already comilped. Just run
+
+
+```
+java -cp .;[your path]\AircraftBattle\lib\jl1.0.1.jar aircraftbattle.game.GameMain
+```
+
+- ##### for example
+
+my *AircraftBattle* project in *E:\GameTest\AircraftBattle*. So my path is *E:\GameTest*, and the root directory is *E:*
+
+```
+E:  
+
+cd E:\GameTest\AircraftBattle\bin
+
+java -cp .;E:\GameTest\AircraftBattle\lib\jl1.0.1.jar aircraftbattle.game.GameMain
+
+```
+
+## Others
+
+If you use IDE like *eclipse* or something, I think you can just *import* the whole project into IDE and run it.
+
+En...language of this game is only Chinese. It doesn't matter that you can't understand Chinese. Just simple words, actually.
+
+**Hope somebody can enjoy it :)**
