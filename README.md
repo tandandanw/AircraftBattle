@@ -11,6 +11,12 @@ En...ok, this is a little game using Java Swing. I use PPT to draw all the pictu
 
 ![picture2](https://raw.githubusercontent.com/PasserbyTan/Little-Games/master/example2.PNG)
 
+## Game Features
+
+- 2 categories player aircraft, 5 categories enemy aircraft, 2 categories falling items 
+- 5 game levels
+- couting system, hunting system
+
 ## Requirements
 
 - *Java Runtime Environment* 
